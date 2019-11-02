@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,UAEE,sBACF,CACA,UACE,6BAA8B,CAC9B,yBACF","file":"style.6ab68229.css","sourceRoot":"../src","sourcesContent":["html,\nbody {\n  scroll-behavior: smooth;\n}\nh3::before {\n  content: counter(section) \". \";\n  counter-increment: section;\n}\n"]}
