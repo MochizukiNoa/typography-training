@@ -36,12 +36,12 @@ pre {
   margin-bottom: 4.5rem;
   font-size: 0.875rem;
   line-height: 1.5rem;
-  letter-spacing: 0.3px;
 }
 
 pre code {
   font-family: "Sawarabi Gothic", "Hiragino Kaku Gothic Pro", "MS PGothic",
     sans-serif;
+  letter-spacing: 0.3px;
 }
 
 .container {
